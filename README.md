@@ -38,4 +38,7 @@
 
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Ryan-Rudes)
 
+### Contact me
+
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ryanrudes@gmail.com)
+[<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](mailto:ryanrudes@gmail.com)
