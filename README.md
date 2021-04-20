@@ -28,15 +28,22 @@
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img align="left" alt="Atom" src="https://img.shields.io/badge/Atom-36AD79.svg?&style=for-the-badge&logo=atom&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
 ### Operating Systems
+
+<img align="left" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+<img align="left" alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white">
+
+<br/><br/>
 
 ### My online presence 🌍
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230B83C5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ryan-rudes-98a650209/)
-
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Ryan-Rudes)
+
+<br/><br/>
+
 
 ### Contact me
 
