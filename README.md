@@ -37,7 +37,7 @@
 
 <br/><br/>
 
-### My online presence 🌍
+### 🌍 My online presence
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230B83C5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ryan-rudes-98a650209/)
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Ryan-Rudes)
