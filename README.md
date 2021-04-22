@@ -48,6 +48,7 @@
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Ryan-Rudes)
 [<img align="left" alt="Kaggle" src="https://img.shields.io/badge/kaggle%20-%231FB8F7.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/>](https://www.kaggle.com/ryanrudes)
 [<img align="left" alt="Medium" src="https://img.shields.io/badge/medium%20-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://ryanrudes.medium.com)
+[<img align="left" alt="PyPI" src="https://img.shields.io/badge/pypi%20-%233775A8.svg?&style=for-the-badge&logo=pypi&logoColor=white"/>](https://pypi.org/user/ryanrudes/)
 
 <br/><br/>
 
