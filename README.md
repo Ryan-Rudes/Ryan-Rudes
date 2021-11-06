@@ -1,8 +1,8 @@
-[![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryan-Rudes&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/Ryan-Rudes)
+[![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanrudes&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/ryanrudes)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Rudes&langs_count=8)](https://github.com/Ryan-Rudes)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrudes&langs_count=8)](https://github.com/ryanrudes)
 
-![](https://komarev.com/ghpvc/?username=Ryan-Rudes)
+![](https://komarev.com/ghpvc/?username=ryanrudes)
 
 ### Languages
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%23376C99.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -45,7 +45,7 @@
 ### My Online Presence
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230B83C5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ryan-rudes-98a650209/)
-[<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Ryan-Rudes)
+[<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/ryanrudes)
 [<img align="left" alt="Kaggle" src="https://img.shields.io/badge/kaggle%20-%231FB8F7.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/>](https://www.kaggle.com/ryanrudes)
 [<img align="left" alt="Medium" src="https://img.shields.io/badge/medium%20-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://ryanrudes.medium.com)
 [<img align="left" alt="PyPI" src="https://img.shields.io/badge/pypi%20-%233775A8.svg?&style=for-the-badge&logo=pypi&logoColor=white"/>](https://pypi.org/user/ryanrudes/)
