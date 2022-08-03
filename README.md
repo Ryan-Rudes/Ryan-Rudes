@@ -1,9 +1,5 @@
 [![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanrudes&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/ryanrudes)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrudes&langs_count=8)](https://github.com/ryanrudes)
-
-![](https://komarev.com/ghpvc/?username=ryanrudes)
-
 ### Languages
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%23376C99.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" alt="Swift" src="https://img.shields.io/badge/swift%20-%23EA4C33.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
