@@ -3,6 +3,10 @@
 ### Languages
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%23347AB4.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" alt="Swift" src="https://img.shields.io/badge/swift%20-%23EA4C33.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+<img align="left" alt="Java" src="https://img.shields.io/badge/java%20-%235D829F.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img align="left" alt="HTML" src="https://img.shields.io/badge/html%20-%23D35836.svg?&style=for-the-badge&logo=html&logoColor=white"/>
+<img align="left" alt="CSS" src="https://img.shields.io/badge/css%20-%232C4BDC.svg?&style=for-the-badge&logo=css&logoColor=white"/>
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/js%20-%23ECDC68.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 
 <br/><br/>
 
