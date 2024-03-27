@@ -1,4 +1,4 @@
-[![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanrudes&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/ryanrudes)
+<!--[![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanrudes&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/ryanrudes)-->
 
 ### Languages
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%23347AB4.svg?&style=for-the-badge&logo=python&logoColor=white"/>
