@@ -6,7 +6,7 @@
 <em>Click these to get in touch!</em><br/>
 <br/>[<img align="left" alt="Personal" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:ryanrudes@gmail.com)
 [<img align="left" alt="School" src="https://img.shields.io/badge/Caltech-FF6C0C?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:rrudes@caltech.com)
-[<img align="left" alt="Discord" src="https://img.shields.io/badge/ryanrudes-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>]()<br/><br/>
+[<img align="left" alt="Discord" src="https://img.shields.io/badge/ryanrudes-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>]()<br/><br/>
 
 ## My Online Presence
 
@@ -17,7 +17,7 @@
 [<img align="left" alt="Medium" src="https://img.shields.io/badge/medium%20-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://ryanrudes.medium.com)
 [<img align="left" alt="PyPI" src="https://img.shields.io/badge/pypi%20-%233775A9.svg?&style=for-the-badge&logo=pypi&logoColor=white"/>](https://pypi.org/user/ryanrudes/)<br/><br/>
 
-## Languages I Know
+## Languages I Love
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" alt="Swift" src="https://img.shields.io/badge/swift%20-%23F05138.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 <img align="left" alt="Java" src="https://img.shields.io/badge/java%20-%23EC9F45.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -29,12 +29,19 @@
 ## Tools and Frameworks I Like
 <img align="left" alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <img align="left" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img align="left" alt="NumPy" src="https://img.shields.io/badge/numpy%20-%235677CA.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
-<img align="left" alt="OpenCV" src="https://img.shields.io/badge/opencv%20-%23EB434C.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
+<img align="left" alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white"/>
+<img align="left" alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
+<img align="left" alt="OpenCV" src="https://img.shields.io/badge/opencv%20-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
 <img align="left" alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-013485.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAIRlWElmTU0AKgAAAAgABQESAAMAAAABAAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIAAIdpAAQAAAABAAAAWgAAAAAAAABIAAAAAQAAAEgAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAAA6gAwAEAAAAAQAAAA4AAAAATspU+QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAVlpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDYuMC4wIj4KICAgPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KGV7hBwAAAt9JREFUKBUdktlrE1EUxu8yM0lmJpkmTSeLabShVdSWUq2tiloVV7Domz755j+gryItCCL4KBURW0TwQRFBccMHxTWgJOLS2ro1paY1bSZpzExmu3OdyYF7OXC/H+e75xwIAICUUuiGc1uh0kZt4XiUQbsoACn3DfB8oFCuKG9vTNy7MzJyWnG1yNVSD/IS5/3nz7vb/exF/sPDARJO/CPbh+eRbUFJDANCScC09NnvU99H+rb0vfCYJvQxm92Tbk9fo8sLHcKdMyr39bGtaxpxzRiLKz+cFe1vGWM2tmp18no+n9/tFcIXLoyFDx/ZdyWAaFARIyUaWcfzk+fFRs+pOuUDtAiutvtAh2NUfStCyMe1tcqbxKB4H4+Pj52UWiLDBPoXw4LAlcSoxcx8CgF+rV1NQGiZChfUB6pSNIAhQDXM4HRnZ+cyrKuNCUjqQ9U/H6DQuqFBw2m1nM9FuG/Z4NKuDjOC1mir5PU1Cg1MCLUZBod0XX/HqA0jbdeKWFQOx/36IGnMb7bk2P5a9pvmm3tR5Xp7g7oklHwUstQhBGGMHdM0VzNey5vh9h8hRHUNo9ncz/BKMG4lIWunWpFJOYFAQ8PNybmXp2eEgG8OMIlMzXz6B8g92uv3thRr44zu7n9Oo7zgB9lnEbxzrxKIt6tEUyHDcn7XagGVlxffsYEW2JI5UPQJbVb/BkvdMSArv4xJqRh1GGn91mrt8olM4/cPyeZ4AziOv1KpvMGxWPxXf3//QWrriaXSXysqyxQRlhbMOZGzbJjJDJYAJ7PO2e0y6DkkOK2JmbuXLo00/eZyuaFUKjXO87zt2q+4A2ZUVeUQpUAIhQyDAps8vdmthWJWsWvb0cG0/Ap46+N91oPr9fpzw9ALbtemq0p1yjumaUwbhlFQ6trzl5+mhjytx+DR0dFmkkwmZzmOe9DV1VVmWRZqusbaxFYRRF+WS6VbTx49PHfs0P7p5m677H/N1XHCuNrHXwAAAABJRU5ErkJggg==&logoColor=white"/>
-<img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/><br/><br/>
+<img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
+<img align="left" alt="SciPy" src="https://img.shields.io/badge/scipy%20-%23073680.svg?&style=for-the-badge&logo=scipy&logoColor=white"/>
+<img align="left" alt="SymPy" src="https://img.shields.io/badge/sympy%20-%233B5526.svg?&style=for-the-badge&logo=sympy&logoColor=white"/>
+<img align="left" alt="scikit-learn" src="https://img.shields.io/badge/scikit%E2%80%93learn%20-%23F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img align="left" alt="huggingface" src="https://img.shields.io/badge/hugging%20face%20-%23FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img align="left" alt="openaigym" src="https://img.shields.io/badge/openai%20gym-%230081A5.svg?&style=for-the-badge&logo=openaigym&logoColor=white"/>
+<br/><br/>
 
-## Editors I Use
+## My Editor of Choice
 
 <!--
 <img align="left" alt="Atom" src="https://img.shields.io/badge/Atom-36AD79.svg?&style=for-the-badge&logo=atom&logoColor=white"/>
