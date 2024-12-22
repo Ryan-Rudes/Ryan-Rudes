@@ -1,5 +1,5 @@
 <!--[![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanrudes&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/ryanrudes)-->
-**Hi! I'm a student at the California Institute of Technology with a focus in Computer Science**. Feel free to visit my [website](https://ryanrudes.com) and explore my various projects!
+**Hi! I'm a student at the California Institute of Technology with a focus in Computer Science and Robotics**. Feel free to visit my [website](https://ryanrudes.com) and explore my various projects!
 
 ## Contact Me
 
